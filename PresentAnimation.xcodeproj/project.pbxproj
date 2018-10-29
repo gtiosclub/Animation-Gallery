@@ -12,6 +12,8 @@
 		BC2932B12183710D009588D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC2932AF2183710D009588D9 /* Main.storyboard */; };
 		BC2932B32183710D009588D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC2932B22183710D009588D9 /* Assets.xcassets */; };
 		BC2932B62183710D009588D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC2932B42183710D009588D9 /* LaunchScreen.storyboard */; };
+		BC2932BE21837BEB009588D9 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2932BD21837BEB009588D9 /* ColorViewController.swift */; };
+		BC2932C02186BA0F009588D9 /* TranslateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2932BF2186BA0F009588D9 /* TranslateViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		BC2932B22183710D009588D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC2932B52183710D009588D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC2932B72183710D009588D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC2932BD21837BEB009588D9 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
+		BC2932BF2186BA0F009588D9 /* TranslateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslateViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				BC2932AB2183710D009588D9 /* AppDelegate.swift */,
 				BC2932AD2183710D009588D9 /* ViewController.swift */,
 				BC2932AF2183710D009588D9 /* Main.storyboard */,
+				BC2932BF2186BA0F009588D9 /* TranslateViewController.swift */,
+				BC2932BD21837BEB009588D9 /* ColorViewController.swift */,
 				BC2932B22183710D009588D9 /* Assets.xcassets */,
 				BC2932B42183710D009588D9 /* LaunchScreen.storyboard */,
 				BC2932B72183710D009588D9 /* Info.plist */,
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC2932AE2183710D009588D9 /* ViewController.swift in Sources */,
+				BC2932C02186BA0F009588D9 /* TranslateViewController.swift in Sources */,
+				BC2932BE21837BEB009588D9 /* ColorViewController.swift in Sources */,
 				BC2932AC2183710D009588D9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
