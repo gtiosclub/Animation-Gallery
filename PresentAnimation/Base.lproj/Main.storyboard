@@ -73,6 +73,7 @@
                             <constraints>
                                 <constraint firstAttribute="width" constant="56" id="V8i-01-Vxc"/>
                             </constraints>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
                             <state key="normal" title="Start"/>
                             <connections>
                                 <segue destination="v2N-Av-U0S" kind="show" id="flH-bC-JgM"/>
@@ -84,6 +85,7 @@
                             <constraints>
                                 <constraint firstAttribute="width" constant="66" id="l9Z-M7-bZa"/>
                             </constraints>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
                             <state key="normal" title="Cancel"/>
                             <connections>
                                 <action selector="handleCancel:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J8H-kB-qMm"/>
