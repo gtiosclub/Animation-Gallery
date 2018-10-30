@@ -1,10 +1,17 @@
 ## Introduction to Animations in iOS
 
+This app shows how to make basic animations using recognizers, transforms, and events.
 
-### 
+#### App Screenshots:
 
-![intro](./images/Intro.gif)
+<p>
+  <img src="./images/Intro.gif" width=350px>
+</p>
 
-![translate](./images/Translate.gif)
+<p>
+  <img src="./images/Translate.gif" width=350px>
+</p>
 
-![color](./images/Color.gif)
+<p>
+  <img src="./images/Color.gif" width=350px>
+</p>
